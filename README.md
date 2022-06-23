@@ -40,7 +40,11 @@ Tina Linux
 
 - B站教程
 
-  我还没仔细看，直接搜关键词ROS吧
+  https://www.bilibili.com/video/BV1Ci4y1L7ZZ?share_source=copy_web
+
+  http://www.autolabor.com.cn/book/ROSTutorials/
+
+  我还没仔细看，可以多找几个对比
 
 - Installation
 
